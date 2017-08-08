@@ -1,4 +1,6 @@
-## App or project title
+## App or project title and description
+
+Provide the name and a short description for your app or project.
 
 ### What problem does your app or project solve?
 
@@ -13,3 +15,15 @@ Who are you trying to help? Have you talked to people that face the challenge or
 Is the dataset you want to use public already? Does the data exist in more than one city?
 
 ### What kind of help do you need?
+
+- [] Data munging and cleaning
+- [] Data analysis
+- [] Front end development
+- [] Database creation / management
+- [] Hosting and deployment
+- [] Documentation
+- [] Marketing
+
+### Potential collaborators
+
+[List people](https://github.com/blog/957-introducing-issue-mentions) that might be interested in working on this project.
