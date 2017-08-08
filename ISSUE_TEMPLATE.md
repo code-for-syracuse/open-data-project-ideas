@@ -16,14 +16,14 @@ Is the dataset you want to use public already? Does the data exist in more than 
 
 ### What kind of help do you need?
 
-- [] Data munging and cleaning
-- [] Data analysis
-- [] Front end development
-- [] Database creation / management
-- [] Hosting and deployment
-- [] Documentation
-- [] User research
-- [] Marketing
+- [ ] Data munging and cleaning
+- [ ] Data analysis
+- [ ] Front end development
+- [ ] Database creation / management
+- [ ] Hosting and deployment
+- [ ] Documentation
+- [ ] User research
+- [ ] Marketing
 
 ### Potential collaborators
 
