@@ -22,6 +22,7 @@ Is the dataset you want to use public already? Does the data exist in more than 
 - [] Database creation / management
 - [] Hosting and deployment
 - [] Documentation
+- [] User research
 - [] Marketing
 
 ### Potential collaborators
