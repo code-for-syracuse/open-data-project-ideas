@@ -93,7 +93,7 @@ Response:
 }
 ```
 
-## Lookup the trash pickup day for a property
+## Look up the trash pickup day for a property
 
 ```bash
 ~$ curl -s "https://services6.arcgis.com/bdPqSfflsdgFRVVM/arcgis/rest/services/Trash_Pickup_Day/FeatureServer/0/query?where=number%3D%27127%27+AND+address+LIKE+%27%25hancock+dr%25%27&outFields=number%2Caddress%2CTrash_Pickup_Day&f=pjson"
