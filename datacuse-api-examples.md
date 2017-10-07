@@ -4,7 +4,7 @@ The City of Syracuse's open data portal uses GeoServices to provide access to ci
 
 # Examples
 
-## Query the city's parcel data set for specific feastures of a property:
+## Query the city's parcel data set for specific features of a property:
 
 ```bash
 ~$ curl -s "https://services6.arcgis.com/bdPqSfflsdgFRVVM/arcgis/rest/services/parcel_data_august_2017/FeatureServer/0/query?where=StNum%3D%27127%27+AND+FullAdd+LIKE+%27%25hancock%25%27&outFields=Nhood,LandUse,YearBuilt&f=pjson"
